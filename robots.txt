@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xolanimgube.github.io/clear-trade-logistics/sitemap.xml
